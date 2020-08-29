@@ -1,0 +1,45 @@
+html, body {
+    margin: 0;
+}
+
+h1{
+    font-family: 'Russo One', sans-serif;
+    font-size: 40px;
+    padding: 1%;
+    margin-bottom: 0;
+}
+
+h2{
+    font-family: 'Russo One', sans-serif;
+    padding: 0.5%;
+    
+}
+
+
+#imagem_fundo {
+    background: url("images/background.jpg");
+    height: 100%;
+    text-align: center;
+    width: 100%;
+}
+#titulo {
+    color: black;
+    padding-top: 20%;
+    font-size: 70px;
+    line-height: 0.6;
+    
+}
+#subtitulo {
+    color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-top: 3px solid black;
+    
+}
+#acao {
+    color: black;
+    border: 1px rgb(0, 0, 0) solid;
+    padding: 10px 20px 10px 20px ;
+    font-family:Helvetica, sans-serif;
+    font-weight: bold;
+}
